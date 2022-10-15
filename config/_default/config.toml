@@ -4,7 +4,8 @@
 
 theme = "congo"
 
-# baseURL = "https://your_domain.com/"
+baseURL = "https://gianlorenzetto.github.io/"
+languageCode = "en-AU"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
