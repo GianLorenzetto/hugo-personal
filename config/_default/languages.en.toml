@@ -15,7 +15,6 @@ dateFormat = "2 January 2006"
 [author]
   name = "Dr Gian Lorenzetto"
   image = "img/author.png"
-  quals = "BCM, PhD (Comp Sci)"
   headline = "BCM PhD (Comp Sci)"
   #bio = "A little bit about me"
   links = [

@@ -82,3 +82,4 @@ Azure, AWS, GCP, RackSpace
 {{< icon "file-lines-regular" >}} Lorenzetto, G. P. A., Datta, A. & Thomas, R. {{< icon "mug-saucer-solid" >}} **A fast trapezoidation technique for planar polygons**  {{< icon "mug-saucer-solid" >}} Computers & Graphics. 26, 2, p. 281-289 {{< icon "mug-saucer-solid" >}} 2002
 
 {{< icon "file-lines-regular" >}} Lorenzetto, G. P. A. & Datta, A. {{< icon "mug-saucer-solid" >}} **A Linear Time Heuristics for Trapezoidation of GIS Polygons** {{< icon "mug-saucer-solid" >}} Lecture Notes in Computer Science. 2331, p. 75-84 {{< icon "mug-saucer-solid" >}} 2002
+
